@@ -2,7 +2,7 @@
 
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
-    <p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/121b1f6534e60566e1de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230506%2Feu-west-3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230506T160114Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c8ddc19b19681af01afe22c41b824ad79409248c06ff307e9ae4220183f3f751" alt="" loading="lazy" style=""></p>
+    <p><img src="https://user-images.githubusercontent.com/90220978/236635641-be4694e6-c0b3-4f14-90b5-5982b1317645.png" alt="" loading="lazy" style=""></p>
 
 <h2>Resources</h2>
 
@@ -46,10 +46,4 @@ What you should learn from this project:
 
 ### [3. Dev servers, modules, and tree shaking](./task_3/modules/body/body.css)
 
-* Using the folder named task_3. Set up a development server:
-
----
-
-## Author
-
-**Joshua Martinez** - [dantsub](https://github.com/dantsub)
+* Using the folder named task_3. Set up a development server
