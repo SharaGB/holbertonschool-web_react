@@ -46,10 +46,4 @@ What you should learn from this project:
 
 ### [3. Dev servers, modules, and tree shaking](./task_3/modules/body/body.css)
 
-* Using the folder named task_3. Set up a development server:
-
----
-
-## Author
-
-**Joshua Martinez** - [dantsub](https://github.com/dantsub)
+* Using the folder named task_3. Set up a development server
