@@ -1,6 +1,6 @@
 # 0x02. React intro
 
-<p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/79df527164ac54981039.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230510%2Feu-west-3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230510T231651Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1f110ef1e6d457f8637ac53320749ec8d92aa6a321173ae5c46861f7b97243de" alt="" loading="lazy" style=""></p>
+<p><img src="https://github.com/SharaGB/holbertonschool-web_react/assets/90220978/5afedec8-cde6-4f30-9d8f-5474d80fc0cd" alt="" loading="lazy" style=""></p>
 
 ## Description
 
