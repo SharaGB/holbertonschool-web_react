@@ -30,8 +30,7 @@ What you should learn from this project:
 
 ### [5. Install Enzyme](./task_3/dashboard/src/setupTests.js)
 
-*
-Install Enzyme with npm
+* Install Enzyme with npm
 Create a file named setupTests.js and configure the adapter for Enzyme
 
 ### [6. Create React tests](./task_3/dashboard/src/App.test.js)
