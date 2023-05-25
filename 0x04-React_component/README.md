@@ -2,7 +2,7 @@
 
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
-    <p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/7953d594b3ffc14201f5.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230525%2Feu-west-3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230525T225006Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c1f94cdbd66004adb559fd3fa87d4907461f76fbd00af3060c591bfba3f00c57" alt="" loading="lazy" style=""></p>
+    <p><img src="https://github.com/SharaGB/holbertonschool-web_react/assets/90220978/dcf82a5d-b216-4eee-908c-893b176aab15" alt="" loading="lazy" style=""></p>
 
 <h2>Resources</h2>
 
