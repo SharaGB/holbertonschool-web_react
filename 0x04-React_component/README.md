@@ -1,4 +1,4 @@
-# 0x04. React component
+# React component
 
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
