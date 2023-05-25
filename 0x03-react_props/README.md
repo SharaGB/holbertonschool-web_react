@@ -2,7 +2,7 @@
 
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
-    <p><img src="" alt="https://github.com/SharaGB/holbertonschool-web_react/assets/90220978/91212bf2-fdc4-4b6a-afe6-80d0649a14ce" loading="lazy" style=""></p>
+    <p><img src="https://github.com/SharaGB/holbertonschool-web_react/assets/90220978/48044520-cee3-4af2-bc9c-a232dc1f7378" alt="" loading="lazy" style=""></p>
 
 <h2>Resources</h2>
 
