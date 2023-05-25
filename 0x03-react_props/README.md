@@ -1,4 +1,4 @@
-# 0x03. React props
+# React props
 
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
